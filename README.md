@@ -1,2 +1,2 @@
 # HelloGUIEclipse
-HelloGUI set up for an Eclipse workspace
+HelloGUI (from Litvin & Litvin 3rd edition) set up for an Eclipse workspace
